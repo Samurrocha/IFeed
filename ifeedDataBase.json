@@ -1,0 +1,272 @@
+{
+  "Orders": [
+    {
+      "id": 1,
+      "order": {
+        "Pizza Margherita": {
+          "quantity": 1,
+          "price": 35.90
+        },
+        "Refrigerante": {
+          "quantity": 2,
+          "price": 5.90
+        }
+      },
+      "status": "Aguardando",
+      "value": 47.70,
+      "cliente": "João"
+    },
+    {
+      "id": 2,
+      "order": {
+        "Pizza Calabresa": {
+          "quantity": 1,
+          "price": 38.50
+        },
+        "Água com Gás": {
+          "quantity": 1,
+          "price": 4.50
+        }
+      },
+      "status": "Aguardando",
+      "value": 43.00,
+      "cliente": "Maria"
+    },
+    {
+      "id": 3,
+      "order": {
+        "Pizza de Frango com Catupiry": {
+          "quantity": 1,
+          "price": 40.00
+        },
+        "Suco Natural": {
+          "quantity": 1,
+          "price": 7.90
+        },
+        "Cerveja Artesanal": {
+          "quantity": 2,
+          "price": 14.50
+        }
+      },
+      "status": "Aguardando",
+      "value": 77.90,
+      "cliente": "Carlos"
+    },
+    {
+      "id": 4,
+      "order": {
+        "Pizza de Quatro Queijos": {
+          "quantity": 1,
+          "price": 42.00
+        },
+        "Batata Frita": {
+          "quantity": 1,
+          "price": 12.00
+        }
+      },
+      "status": "Pronto",
+      "value": 54.00,
+      "cliente": "Ana"
+    },
+    {
+      "id": 5,
+      "order": {
+        "Pizza de Pepperoni": {
+          "quantity": 1,
+          "price": 43.50
+        },
+        "Suco Natural": {
+          "quantity": 1,
+          "price": 7.90
+        }
+      },
+      "status": "Aguardando",
+      "value": 51.40,
+      "cliente": "Pedro"
+    },
+    {
+      "id": 6,
+      "order": {
+        "Refrigerante": {
+          "quantity": 1,
+          "price": 5.90
+        }
+      },
+      "status": "Pronto",
+      "value": 5.90,
+      "cliente": "Clara"
+    },
+    {
+      "id": 7,
+      "order": {
+        "Água com Gás": {
+          "quantity": 1,
+          "price": 4.50
+        },
+        "Cerveja Artesanal": {
+          "quantity": 1,
+          "price": 14.50
+        }
+      },
+      "status": "Pronto",
+      "value": 19.00,
+      "cliente": "Lucas"
+    },
+    {
+      "id": 8,
+      "order": {
+        "Suco Natural": {
+          "quantity": 1,
+          "price": 7.90
+        },
+        "Brownie com Sorvete": {
+          "quantity": 1,
+          "price": 12.00
+        }
+      },
+      "status": "Pronto",
+      "value": 19.90,
+      "cliente": "Sofia"
+    },
+    {
+      "id": 9,
+      "order": {
+        "Salada Caesar": {
+          "quantity": 1,
+          "price": 19.90
+        },
+        "Cerveja Artesanal": {
+          "quantity": 2,
+          "price": 14.50
+        }
+      },
+      "status": "Em Produção",
+      "value": 48.90,
+      "cliente": "Mariana"
+    },
+    {
+      "id": 10,
+      "order": {
+        "Frango Frito": {
+          "quantity": 1,
+          "price": 22.50
+        },
+        "Suco Natural": {
+          "quantity": 1,
+          "price": 7.90
+        }
+      },
+      "status": "Em Produção",
+      "value": 30.40,
+      "cliente": "Jorge"
+    },
+    {
+      "id": 11,
+      "order": {
+        "Hambúrguer Gourmet": {
+          "quantity": 1,
+          "price": 29.90
+        },
+        "Batata Frita": {
+          "quantity": 1,
+          "price": 12.00
+        }
+      },
+      "status": "Aguardando",
+      "value": 41.90,
+      "cliente": "Carlos"
+    },
+    {
+      "id": 12,
+      "order": {
+        "Batata Frita": {
+          "quantity": 1,
+          "price": 12.00
+        },
+        "Suco Natural": {
+          "quantity": 1,
+          "price": 7.90
+        }
+      },
+      "status": "Em Produção",
+      "value": 19.90,
+      "cliente": "Rita"
+    },
+    {
+      "id": 13,
+      "order": {
+        "Cerveja Artesanal": {
+          "quantity": 1,
+          "price": 14.50
+        }
+      },
+      "status": "Pronto",
+      "value": 14.50,
+      "cliente": "Fernanda"
+    },
+    {
+      "id": 14,
+      "order": {
+        "Massa à Bolonhesa": {
+          "quantity": 1,
+          "price": 25.00
+        },
+        "Água com Gás": {
+          "quantity": 1,
+          "price": 4.50
+        }
+      },
+      "status": "Aguardando",
+      "value": 29.50,
+      "cliente": "Ricardo"
+    },
+    {
+      "id": 15,
+      "order": {
+        "Confirmar Pedido": {
+          "quantity": 1,
+          "price": 0.00
+        }
+      },
+      "status": "Pronto",
+      "value": 0.00,
+      "cliente": "Luana"
+    },
+    {
+      "id": 16,
+      "order": {
+        "Tiramisu": {
+          "quantity": 1,
+          "price": 15.00
+        }
+      },
+      "status": "Aguardando",
+      "value": 15.00,
+      "cliente": "Paula"
+    },
+    {
+      "id": 17,
+      "order": {
+        "Brownie com Sorvete": {
+          "quantity": 1,
+          "price": 12.00
+        }
+      },
+      "status": "Aguardando",
+      "value": 12.00,
+      "cliente": "Gustavo"
+    },
+    {
+      "id": 18,
+      "order": {
+        "Pizza Vegana": {
+          "quantity": 1,
+          "price": 39.90
+        }
+      },
+      "status": "Pronto",
+      "value": 39.90,
+      "cliente": "Luiz"
+    }
+  ]
+}
