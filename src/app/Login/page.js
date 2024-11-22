@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 import { FaUser, FaLock } from "react-icons/fa";
-import "./Login.css";
+import "../componentsCss/Login.css";
 
 
 const Login = () => {
@@ -21,7 +21,7 @@ const Login = () => {
   return (
     <div className="container">
       <form onSubmit={handleSubmit}>
-        
+        <div className="login">
         <h1>Acesse o sistema</h1>
         <div className="input-field">
           <input
@@ -56,6 +56,7 @@ const Login = () => {
           <p>
             Não tem uma conta? <a href="#">Registar</a>{" "}
           </p>
+        </div>
         </div>
       </form>
     </div>

@@ -1,8 +1,11 @@
-import Login from "./Components/login/Login";
+import Home from "./Home/page";
 export default function App() {
   return (
     <>
-<Login/>
-    </>
+    
+    <Home/>
+    
+
+</>
   );
 }

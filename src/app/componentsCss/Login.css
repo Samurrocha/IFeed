@@ -1,7 +1,6 @@
 .container {
   width: 100vw;
   /* Diminuído de 450px para 350px */
-  background: black;
   backdrop-filter: blur(10px);
   border: 2px solid rgba(0, 0, 0, 0.2);
   border-radius: 10px;
@@ -11,9 +10,16 @@
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: url("../../assets/varias comidas deliciosas (1).png") no-repeat;
+  background: url("../assets/varias\ comidas\ deliciosas\ \(1\).png") no-repeat;
   background-size: cover;
   background-position: center;
+}
+
+.login{
+  border: 2px solid white;
+  border-radius: 10px;
+  background-color: black;
+  padding: 50px;
 }
 
 .container h1 {
